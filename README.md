@@ -214,3 +214,7 @@ Further documentation on low level apis and their usage can be found here. [Docs
 
 ## Usage Examples
 The [Tests](tests/) directory and the examples directory contain further usage examples. [Examples](examples/).
+
+
+## License
+[View License](./LICENSE)
